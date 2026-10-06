@@ -1,8 +1,10 @@
 # Hey, I'm Carlson 👋
 
-### Developer • AI • Automation • Systems
+## 🛠️ Languages & Technologies
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Building+cool+things;AI+%26+Automation;Full-Stack+Development" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,java,python,cpp,mysql,git" />
+</p>
 
 ## 🚀 About Me
 
